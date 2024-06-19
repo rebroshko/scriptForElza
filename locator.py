@@ -1,0 +1,6 @@
+loc_order_id = "/../../..//*[@class='modal'][1]//ul//li[1]/a[1]"
+task = "//*[@name='task_descr']"
+create_button = "//*[@class='edit-task__content main-tab active']//button"
+pay = "//*[text() = 'оплатить']"
+count_do = "//*[@name = 'kolvo']"
+pay_button = "//*[@id = 'buttonpay']"
